@@ -28,7 +28,7 @@ Ce projet est également devenu un excellent support d’apprentissage me permet
 ---
 
 ## 🧱 Structure du projet
-
+```
 src/
 ├── Main.java
 ├── Echiquier.java
@@ -43,7 +43,7 @@ src/
 │ ├── Fou.java
 │ ├── Dame.java
 │ └── Roi.java
-
+```
 ---
 
 ## 🚀 Installation et exécution
