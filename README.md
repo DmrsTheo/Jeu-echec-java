@@ -67,7 +67,7 @@ Java 17 ou supérieur (JDK installé)
 ---
 
 ## 🖥️ Affichage dans le terminal
-
+```
 t c f d r f c t
 p p p p p p p p
 . . . . . . . .
@@ -76,7 +76,7 @@ p p p p p p p p
 . . . . . . . .
 P P P P P P P P
 T C F D R F C T
-
+```
 ---
 
 ## 💡 Améliorations futures
